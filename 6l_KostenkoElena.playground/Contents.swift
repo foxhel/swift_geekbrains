@@ -29,7 +29,7 @@ class PotatoCake: Cake {
         self.pricePerKG = pricePerKG
     }
 }
-// T - это какой-то пока неизвестный тип, но он поддерживает протокол Weightabe
+
 struct Stack<T: Cake> {
     private var elements: [T] = []
     mutating func push(_ element: T) {
@@ -51,7 +51,6 @@ struct Stack<T: Cake> {
     }
     subscript(index: Int) -> T? {
         if (index >= 0 && elements.count > index) {
-            // This line will not throw index out of range:
             return elements[index]
         } else {
             return nil

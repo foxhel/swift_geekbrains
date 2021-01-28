@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "B00B9988-1D69-4A44-8126-FBA137C3C2BF"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E0A5206E-5586-4C30-96FA-C683FC706C35"
+            shouldBeEnabled = "No"
+            nameForDebugger = "object"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Snake/GameScene.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "129"
+            endingLineNumber = "129"
+            landmarkName = "didBegin(_:)"
+            landmarkType = "7">
+            <Actions>
+               <BreakpointActionProxy
+                  ActionExtensionID = "Xcode.BreakpointAction.Log">
+                  <ActionContent
+                     message = ""
+                     conveyanceType = "0">
+                  </ActionContent>
+               </BreakpointActionProxy>
+            </Actions>
+            <Locations>
+               <Location
+                  uuid = "E0A5206E-5586-4C30-96FA-C683FC706C35 - 2b1ff15b6f1a93a5"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Snake.GameScene.didBegin(__C.SKPhysicsContact) -&gt; ()"
+                  moduleName = "Snake"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/elenakostenko/Documents/Swift/swift_geekbrains/Snake/Snake/GameScene.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "129"
+                  endingLineNumber = "129"
+                  offsetFromSymbolStart = "439">
+               </Location>
+               <Location
+                  uuid = "E0A5206E-5586-4C30-96FA-C683FC706C35 - 2b1ff15b6f1a93a5"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Snake.GameScene.didBegin(__C.SKPhysicsContact) -&gt; ()"
+                  moduleName = "Snake"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/elenakostenko/Documents/Swift/swift_geekbrains/Snake/Snake/GameScene.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "129"
+                  endingLineNumber = "129"
+                  offsetFromSymbolStart = "1298">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
